@@ -1,9 +1,9 @@
-#Dev com Node.js e MongoDB#
+# Dev com Node.js e MongoDB #
 
 Este repositório contém os códigos desenvolvidos durante o curso Dev com Node.js e MongoDB.
 O objetivo é aprender a criar aplicações modernas em JavaScript utilizando o ambiente Node.js, o banco de dados MongoDB, e boas práticas de desenvolvimento backend.
 
-##  Conteúdo do Curso
+## Conteúdo do Curso
 
 Durante o curso, foram abordados diversos conceitos e práticas, incluindo:
 -Configuração do ambiente Node.js
